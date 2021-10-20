@@ -12,16 +12,15 @@
 - 👨‍🎓 I am currently research assistant at  <a href="https://www.medibot.kist.re.kr/">Korea Institute of Science and Technology : Center for Healthcare Robotics </a> and MS Robotic student at <a href="https://www.ust.ac.kr/eng.do">University of Science and Technology Korea </a>
   <!--Add grad pic-->
 - 👨‍🎓 I have completed my BEE from <a href="https://www.mersin.edu.tr/">Mersin University </a> with a CGPA of 3.67/4, and ranked first among Enginering Faculty.
-  <!--
-- 💻 I have worked as a ...... at <a href=".......">...... ......</a> and as a ........at <a href="..........."> ......</a>
-- 💼 I have designed ...... for <br> <a href="......">......</a>
-- 👨‍💻 I have designed ...... <br>  for .......
-- 😄 I actively conduct ...... ...... and ...... in my college.
--->
 - 👨‍💻 I like to develop applications that solve real life problems. 
 - 👨‍💻 I am a Junior Embedded System Engineer.
-- ⚡  I’m looking to collaborate  with people who share similar gist <br> for developing scalable applications.
- <br><br>
+- ⚡  I’m looking to collaborate  with people who share similar gist for developing scalable applications.
+<!--
+- 💻 I have worked as a ...... at <a href=".......">...... ......</a> and as a ........at <a href="..........."> ......</a>
+- 💼 I have designed ...... for <a href="......">......</a>
+- 👨‍💻 I have designed ......  for .......
+- 😄 I actively conduct ...... ...... and ...... in my college.
+-->
 
 ### Worked With
 
@@ -43,7 +42,7 @@
 
 ### Follow Me:
 <p>
-<a href="https://www.linkedin.com/in/veysiadn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; &nbsp; &nbsp; <a href="https://www.instagram.com/veysiadn/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; &nbsp; &nbsp;  
+<a href="https://www.linkedin.com/in/veysiadn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  </p>
 
 
