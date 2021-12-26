@@ -48,7 +48,7 @@
  
 ### My webpage
  <p>
-<a href="https://veysiadn.github.io/"><img src="https://raw.githubusercontent.com/veysiadn/veysiadn.github.io/gh-pages/public/favicon.ico" /></a>
+<a href="https://veysiadn.github.io/"><img src="https://raw.githubusercontent.com/veysiadn/veysiadn.github.io/main/assets/jpeg/va_logo_resized.jpg" /></a>
  </p>
 
 
