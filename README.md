@@ -2,14 +2,14 @@
 
 <p>
  <em>
-    I am a Robotic Engineering master student <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> with a passion to build and develop robots/robotic applications to make human life easier. 
+    I am a Ph.D. student focusing on embedded machine learning<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> with a passion to build and develop embedded applications to make human life easier. 
  </em>
   </p>
   
   <img height="350" width="400" align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
 <b>About Me:</b>
-
-- 👨‍🎓 I am currently research assistant at  <a href="https://www.medibot.kist.re.kr/">Korea Institute of Science and Technology : Center for Healthcare Robotics </a> and MS Robotic student at <a href="https://www.ust.ac.kr/eng.do">University of Science and Technology Korea </a>
+- 👨‍🎓 I am currently research assistant at  <a href="https://www.miun.se/en/personnel/veysiadin/">Mid Sweden University </a> focusing on machine learning on embedded systems.
+- 👨‍🎓 Previously I was research assistant at  <a href="https://www.medibot.kist.re.kr/">Korea Institute of Science and Technology : Center for Healthcare Robotics </a> and MS Robotic student at <a href="https://www.ust.ac.kr/eng.do">University of Science and Technology Korea </a>
   <!--Add grad pic-->
 - 👨‍🎓 I have completed my BEE from <a href="https://www.mersin.edu.tr/">Mersin University </a> with a CGPA of 3.67/4, and ranked first among Enginering Faculty.
 - 👨‍💻 I like to develop applications that solve real life problems. 
