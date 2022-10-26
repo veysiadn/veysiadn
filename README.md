@@ -14,7 +14,7 @@
   <!--Add grad pic-->
 - 👨‍🎓 I have completed my BEE from <a href="https://www.mersin.edu.tr/">Mersin University </a> with a CGPA of 3.67/4, and ranked first among Enginering Faculty.
 - 👨‍💻 I like to develop applications that solve real life problems. 
-- 👨‍💻 I am a Embedded System Engineer focusing on machine learning on embedded systems.
+- 👨‍💻 I am an Embedded System Engineer focusing on machine learning on embedded systems.
 - ⚡  I’m looking to collaborate with people who share similar gist for developing scalable applications.
 <!--
 - 💻 I have worked as a ...... at <a href=".......">...... ......</a> and as a ........at <a href="..........."> ......</a>
