@@ -8,6 +8,7 @@
   
   <img height="350" width="400" align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
 <b>About Me:</b>
+
 - 👨‍🎓 I am currently working for Sigma Connectivity Engineering AB and consulting Volvo Cars focusing on core integration of new generation software platform for fully electric cars.
 - 👨‍🎓 Previously I was research assistant at  <a href="https://www.miun.se/en/personnel/veysiadin/">Mid Sweden University </a> focusing on machine learning on embedded systems and before that I was research assistant at  <a href="https://www.medibot.kist.re.kr/">Korea Institute of Science and Technology : Center for Healthcare Robotics </a> and MS Robotic student at <a href="https://www.ust.ac.kr/eng.do">University of Science and Technology Korea </a>
   <!--Add grad pic-->
