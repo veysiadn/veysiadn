@@ -35,12 +35,8 @@
 
 
 ### GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=veysiadn&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /></p>
-
- ### Top Languages: 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veysiadn&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400" alt="veysiadn" /></p>
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veysiadn&" alt="veysiadn" /></p>
+![](https://raw.githubusercontent.com/veysiadn/stat-repo/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/veysiadn/stat-repo/master/generated/languages.svg#gh-dark-mode-only)
 
 ### Follow Me:
 <p>
